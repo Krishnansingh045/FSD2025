@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+}
+h1,h1{
+    background-color: aquamarine;
+}
+#heading1{
+    font-size: larger;
+    background-color: aquamarine;
+}
+.heading2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: brown;
+} 
+div ~p{
+    background-color: rgb(123, 69, 69);
+    color: aliceblue;
+} 
+p:nth-child(2){
+    background-color: blue;
+}
+divp:nth-of-type(1){
+    background-color: blue;
+    font-size: xx-large;
+}

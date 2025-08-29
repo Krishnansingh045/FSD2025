@@ -1,0 +1,40 @@
+/* body{
+    background-color: aquamarine;
+} */
+.container{
+    display: grid;
+    border: 1px solid red;
+    grid-template-columns:
+    grid-template-rows: 200px 500px 200px;
+}
+.child1{
+    border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+
+
+
+}
+.child2{
+     border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: maroon;
+
+    
+}
+.child3{
+     border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    
+}
+.child4{
+     border: 1px dotted green;
+    height: 300px;
+    width: 300px;
+    background-color: orangered;
+    
+}
